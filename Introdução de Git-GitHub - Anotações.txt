@@ -1,0 +1,45 @@
+Entendendo oque é Git e sua importância 
+*Linus tovards - criador do Linux
+
+controle de versão, armazenamento em nuvem, trabalho em equipe, melhorar seu código, reconhecimento.
+
+listar
+win + cmd 
+dir + enter
+cd / + enter 
+
+*limpar terminal 
+cls - clear 
+
+tab - auto completa no prompt 
+
+*como criar uma pasta 
+
+mkdir + space + nome da pasta 
+
+como criar arquivo
+echo + space + nome + > nome.txt
+
+*como deletar a pasta e todo conteúdo 
+
+rmdir + nome da pasta + /s + /Q 
+
+como deletar conteúdo da pasta
+del - arquivos da pasta
+
+
+OBJETOS INTERNOS DO GIT 
+
+estudar mais sobre SSH E TOKEN no GitHub 
+
+BLOBS 
+TREES 
+COMMITS
+
+
+CHAVES SSH E TOKEN 
+
+chave ssh - Posso criar quando quiser e excluir também 
+
+
+Obs: Essas são minhas observações sobre o curso e tudo que foi falado.
