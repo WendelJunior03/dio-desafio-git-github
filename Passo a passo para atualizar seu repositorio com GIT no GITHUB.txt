@@ -1,0 +1,19 @@
+git clone (coloco o link) - para clonar o repositorio
+ 
+
+cd + nome do repositorio - para entrar na pasta do repositorio
+
+
+git status - para ver como ta o status da pasta 
+
+
+git add . - adicionar oque foi alterado na pasta, para ela ir para o GITHUB 
+
+
+git commit - "ESCREVER COMENTARIO PARA O COMMIT QUE FAÇA SENTIDO"
+
+
+git status 
+
+
+git push origin main - enviando todos os commits que temos na pasta para nuvem.
